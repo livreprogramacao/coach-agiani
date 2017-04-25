@@ -16,6 +16,7 @@ Código .......: 74544 Envie seu currículo
 
 ```
 INFO MARCOS...
+
 Desconsidenrando a questão Rio de Janeiro.. é isso que tem ocorrido...
 pede Coordenador... mas de nada... e abaixo vem o Coordenação de projetos...
 e pede a bendita certificação PMP que nem devem saber o que é... 
@@ -46,6 +47,8 @@ Empresa .....: Brastorage Com e Serv em Infom LTDA
 Código .......: 74127
 
 ```
+INFO MARCOS...
+
 ESSA É A MINHA CARA, JÁ ENVIEI 
 ```
 
@@ -73,6 +76,8 @@ Empresa .....: SND DIST PRODUTOS DE INFORMÁTICA S/A
 Código .......: 73839
 
 ```
+INFO MARCOS...
+
 info Marcos ; com pouco de estudo em REST, nodJS e Angular pra não ficar eprdido... POSSO ATENDER...
 ESSA É BOMBRIL
 ```
@@ -107,6 +112,8 @@ Empresa .....: Hope Lingerie
 Código .......: 73628
 
 ```
+INFO MARCOS...
+
 ESSA SERIA LEGAL, MAS NÃO CONHEÇO LINX
 ```
 
@@ -141,6 +148,8 @@ Empresa .....: DPaschoal
 Código .......: 73214
 
 ```
+INFO MARCOS...
+
 OUTRO MUNDO VOLTADO A BANCO
 ```
 
@@ -165,6 +174,8 @@ Empresa .....: BRQ
 Código .......: 73307
 
 ```
+INFO MARCOS...
+
 ESSA DARIA MUITO CERTO SE NÃO FOSSE O INGLES...
 ```
 
@@ -189,6 +200,8 @@ Empresa .....: EXPERT SYSTEM ESP. EM SISTEMA LTDA ME
 Código .......: 73252
 
 ```
+INFO MARCOS...
+
 VAGA BACANA - MINHA CARA
 ```
 
@@ -211,6 +224,8 @@ Empresa .....: Bracta
 Código .......: 72722 Envie seu currículo
 
 ```
+INFO MARCOS...
+
 olha o ingles...
 ```
 
@@ -241,6 +256,8 @@ Empresa .....: Cubo Mentoring Consultoria e Treinamento
 Código .......: 72648
 
 ```
+INFO MARCOS...
+
 AQUI COM ESTUDO DE ALGUMAS TEC POSSO ATENDER...
 FORA ARQUITETURA PATTERNS CONHEÇO TUDO
 ```
@@ -275,6 +292,8 @@ Empresa .....: RBR BRASIL RECRUTAMENTO E SELEÇÃO LTDA
 Código .......: 72590
 
 ```
+INFO MARCOS...
+
 ESSA POSSO ATENDER BEM
 ```
 
@@ -296,6 +315,8 @@ Empresa .....: Spread Teleinformática
 Código .......: 72422
 
 ```
+INFO MARCOS...
+
 ESSA POSSO ATENDER...
 ```
 
@@ -323,6 +344,8 @@ Empresa .....: essence
 Código .......: 72258
 
 ```
+INFO MARCOS...
+
 SAP E INGLES - NO WAY
 ```
 
@@ -350,6 +373,8 @@ Empresa .....: Talent Group
 Código .......: 71999
 
 ```
+INFO MARCOS...
+
 me falta arqitetura - e os blas abaixo
 Conhecimentos em TIBCO, Service Bus, SOLR, Bizagi e Ferramentas de BPM
 ```
@@ -378,6 +403,8 @@ Empresa .....: Altran Consultoria
 Código .......: 71497
 
 ```
+INFO MARCOS...
+
 INTERESSANTE, VEJA A MESMA VAGA ANTERIOR, MAS COM DESCRIÇÃO DIFERENTE...
 NESSE CASO E COORDENAÇÃO,MAS NÃO NECESSARIAMENTE SER FERA EM TIBCO E ETC...
 ```
@@ -411,6 +438,8 @@ Empresa .....: PSM COMPANY
 Código .......: 71541 Envie seu currículo
 
 ```
+INFO MARCOS...
+
 MESMA VAGA - PEDIDOS PROXIMOS
 ```
 
@@ -440,6 +469,8 @@ Empresa .....: Grupo Viceri
 Código .......: 71190
 
 ```
+INFO MARCOS...
+
 NOVA VIAGEM - (Lean, Scrum, Kanban, XP, etc.) - NOMES BONITOS TODOS QUEREM...
 VAMOS PARA JUNDIAI
 ```
@@ -471,6 +502,8 @@ Empresa .....: Mazzatech
 Código .......: 71031
 
 ```
+INFO MARCOS...
+
 VIXI, ESSA NÃO DÁ...
 Arquitetura Empresarial, Diagrama IO, JIRA, Confluence, Bitbucket, Jenkins). 
 NAO QUEREM ARABE TAMBÉM NÃO????
@@ -505,6 +538,8 @@ Empresa .....: Geração Talento RH
 Código .......: 71071 Envie seu currículo
 
 ```
+INFO MARCOS...
+
 SERÁ QUE CONSIGO ENTENDER TUUUUDO ISSO... FORA CSS E HTML ... TUDO GREGO..
 FORA O INGLES...
 ```
